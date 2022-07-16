@@ -1,0 +1,82 @@
+Starting OmniSharp server at 6/19/2022, 11:44:18 AM
+    Target: /home/thomas/source/LinqTesting
+
+OmniSharp server started with .NET 6.0.102
+.
+    Path: /home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/.omnisharp/1.39.0-net6.0/OmniSharp.dll
+    PID: 1497
+
+[info]: OmniSharp.Stdio.Host
+        Starting OmniSharp on Unknown 0.0 (Unknown)
+[info]: OmniSharp.Services.DotNetCliService
+        Checking the 'DOTNET_ROOT' environment variable to find a .NET SDK
+[info]: OmniSharp.Services.DotNetCliService
+        DotNetPath set to /usr/share/dotnet/dotnet
+[info]: OmniSharp.MSBuild.Discovery.MSBuildLocator
+        Located 1 MSBuild instance(s)
+            1: .NET Core SDK 6.0.102 17.0.0 - "/usr/share/dotnet/sdk/6.0.102/"
+[info]: OmniSharp.MSBuild.Discovery.MSBuildLocator
+        Registered MSBuild instance: .NET Core SDK 6.0.102 17.0.0 - "/usr/share/dotnet/sdk/6.0.102/"
+[info]: OmniSharp.WorkspaceInitializer
+        Invoking Workspace Options Provider: OmniSharp.Roslyn.CSharp.Services.CSharpFormattingWorkspaceOptionsProvider, Order: 0
+[info]: OmniSharp.MSBuild.ProjectSystem
+        No solution files found in '/home/thomas/source/LinqTesting'
+[info]: OmniSharp.MSBuild.ProjectManager
+        Queue project update for '/home/thomas/source/LinqTesting/LinqTesting.csproj'
+[info]: OmniSharp.Script.ScriptProjectSystem
+        Detecting CSX files in '/home/thomas/source/LinqTesting'.
+[info]: OmniSharp.Script.ScriptProjectSystem
+        Did not find any CSX files
+[info]: OmniSharp.WorkspaceInitializer
+        Configuration finished.
+[info]: OmniSharp.Stdio.Host
+        Omnisharp server running using Stdio at location '/home/thomas/source/LinqTesting' on host 1391.
+[info]: OmniSharp.MSBuild.ProjectManager
+        Loading project: /home/thomas/source/LinqTesting/LinqTesting.csproj
+[info]: OmniSharp.MSBuild.ProjectManager
+        Successfully loaded project file '/home/thomas/source/LinqTesting/LinqTesting.csproj'.
+[info]: OmniSharp.MSBuild.ProjectManager
+        Adding project '/home/thomas/source/LinqTesting/LinqTesting.csproj'
+[info]: OmniSharp.MSBuild.ProjectManager
+        Update project: LinqTesting
+Received response for /quickinfo but could not find request.
+[warn]: OmniSharp.Roslyn.CSharp.Services.Navigation.FindUsagesService
+        No symbol found. File: /home/thomas/source/LinqTesting/Out.cs, Line: 5, Column: 20.
+[warn]: OmniSharp.Roslyn.CSharp.Services.Navigation.FindUsagesService
+        No symbol found. File: /home/thomas/source/LinqTesting/Out.cs, Line: 5, Column: 23.
+Received response for /completion but could not find request.
+[warn]: OmniSharp.Roslyn.CSharp.Services.Navigation.FindUsagesService
+        No symbol found. File: /home/thomas/source/LinqTesting/Out.cs, Line: 5, Column: 64.
+Received response for /v2/getcodeactions but could not find request.
+Received response for /completion/resolve but could not find request.
+Received response for /completion/resolve but could not find request.
+Received response for /completion/resolve but could not find request.
+Received response for /quickinfo but could not find request.
+Received response for /v2/getcodeactions but could not find request.
+Received response for /v2/getcodeactions but could not find request.
+Received response for /v2/getcodeactions but could not find request.
+Received response for /v2/getcodeactions but could not find request.
+Received response for /v2/getcodeactions but could not find request.
+Received response for /v2/getcodeactions but could not find request.
+Received response for /v2/getcodeactions but could not find request.
+Received response for /completion/resolve but could not find request.
+[warn]: OmniSharp.Roslyn.CSharp.Services.Navigation.FindUsagesService
+        No symbol found. File: /home/thomas/source/LinqTesting/Program.cs, Line: 51, Column: 5.
+[warn]: OmniSharp.Roslyn.CSharp.Services.Navigation.FindUsagesService
+        No symbol found. File: /home/thomas/source/LinqTesting/Program.cs, Line: 51, Column: 67.
+Received response for /completion/resolve but could not find request.
+Received response for /v2/getcodeactions but could not find request.
+[warn]: OmniSharp.Roslyn.CSharp.Services.Navigation.FindUsagesService
+        No symbol found. File: /home/thomas/source/LinqTesting/Program.cs, Line: 53, Column: 18.
+Received response for /completion/resolve but could not find request.
+Received response for /v2/getcodeactions but could not find request.
+Received response for /v2/getcodeactions but could not find request.
+Received response for /v2/getcodeactions but could not find request.
+Received response for /v2/getcodeactions but could not find request.
+Received response for /v2/getcodeactions but could not find request.
+Received response for /completion but could not find request.
+Received response for /quickinfo but could not find request.
+Received response for /v2/getcodeactions but could not find request.
+Received response for /v2/getcodeactions but could not find request.
+Received response for /v2/getcodeactions but could not find request.
+Received response for /v2/getcodeactions but could not find request.

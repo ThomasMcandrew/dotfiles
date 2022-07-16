@@ -1,0 +1,128 @@
+Starting OmniSharp server at 6/15/2022, 9:51:39 PM
+    Target: /home/thomas/source/LinqTesting
+
+OmniSharp server started with .NET 6.0.102
+.
+    Path: /home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/.omnisharp/1.39.0-net6.0/OmniSharp.dll
+    PID: 2514
+
+[info]: OmniSharp.Stdio.Host
+        Starting OmniSharp on Unknown 0.0 (Unknown)
+[info]: OmniSharp.Services.DotNetCliService
+        Checking the 'DOTNET_ROOT' environment variable to find a .NET SDK
+[info]: OmniSharp.Services.DotNetCliService
+        DotNetPath set to /usr/share/dotnet/dotnet
+[info]: OmniSharp.MSBuild.Discovery.MSBuildLocator
+        Located 1 MSBuild instance(s)
+            1: .NET Core SDK 6.0.102 17.0.0 - "/usr/share/dotnet/sdk/6.0.102/"
+[info]: OmniSharp.MSBuild.Discovery.MSBuildLocator
+        Registered MSBuild instance: .NET Core SDK 6.0.102 17.0.0 - "/usr/share/dotnet/sdk/6.0.102/"
+[info]: OmniSharp.WorkspaceInitializer
+        Invoking Workspace Options Provider: OmniSharp.Roslyn.CSharp.Services.CSharpFormattingWorkspaceOptionsProvider, Order: 0
+[info]: OmniSharp.MSBuild.ProjectSystem
+        No solution files found in '/home/thomas/source/LinqTesting'
+[info]: OmniSharp.MSBuild.ProjectManager
+        Queue project update for '/home/thomas/source/LinqTesting/LinqTesting.csproj'
+[info]: OmniSharp.Script.ScriptProjectSystem
+        Detecting CSX files in '/home/thomas/source/LinqTesting'.
+[info]: OmniSharp.Script.ScriptProjectSystem
+        Did not find any CSX files
+[info]: OmniSharp.WorkspaceInitializer
+        Configuration finished.
+[info]: OmniSharp.Stdio.Host
+        Omnisharp server running using Stdio at location '/home/thomas/source/LinqTesting' on host 2358.
+[info]: OmniSharp.MSBuild.ProjectManager
+        Loading project: /home/thomas/source/LinqTesting/LinqTesting.csproj
+[info]: OmniSharp.MSBuild.ProjectManager
+        Successfully loaded project file '/home/thomas/source/LinqTesting/LinqTesting.csproj'.
+[info]: OmniSharp.MSBuild.ProjectManager
+        Adding project '/home/thomas/source/LinqTesting/LinqTesting.csproj'
+[info]: OmniSharp.MSBuild.ProjectManager
+        Update project: LinqTesting
+Received response for /v2/getcodeactions but could not find request.
+Received response for /quickinfo but could not find request.
+Received response for /v2/getcodeactions but could not find request.
+Received response for /v2/getcodeactions but could not find request.
+[warn]: OmniSharp.Roslyn.CSharp.Services.Navigation.FindUsagesService
+        No symbol found. File: /home/thomas/source/LinqTesting/Benchmarks.cs, Line: 11, Column: 6.
+Received response for /v2/getcodeactions but could not find request.
+[warn]: OmniSharp.Roslyn.CSharp.Services.Navigation.FindUsagesService
+        No symbol found. File: /home/thomas/source/LinqTesting/Benchmarks.cs, Line: 11, Column: 7.
+[warn]: OmniSharp.Roslyn.CSharp.Services.Navigation.FindUsagesService
+        No symbol found. File: /home/thomas/source/LinqTesting/Benchmarks.cs, Line: 11, Column: 8.
+[warn]: OmniSharp.Roslyn.CSharp.Services.Navigation.FindUsagesService
+        No symbol found. File: /home/thomas/source/LinqTesting/Benchmarks.cs, Line: 12, Column: 8.
+[warn]: OmniSharp.Roslyn.CSharp.Services.Navigation.FindUsagesService
+        No symbol found. File: /home/thomas/source/LinqTesting/Benchmarks.cs, Line: 13, Column: 8.
+[warn]: OmniSharp.Roslyn.CSharp.Services.Navigation.FindUsagesService
+        No symbol found. File: /home/thomas/source/LinqTesting/Benchmarks.cs, Line: 12, Column: 8.
+[warn]: OmniSharp.Roslyn.CSharp.Services.Navigation.FindUsagesService
+        No symbol found. File: /home/thomas/source/LinqTesting/Benchmarks.cs, Line: 13, Column: 8.
+[warn]: OmniSharp.Roslyn.CSharp.Services.Navigation.FindUsagesService
+        No symbol found. File: /home/thomas/source/LinqTesting/Benchmarks.cs, Line: 14, Column: 8.
+[warn]: OmniSharp.Roslyn.CSharp.Services.Navigation.FindUsagesService
+        No symbol found. File: /home/thomas/source/LinqTesting/Benchmarks.cs, Line: 15, Column: 8.
+[warn]: OmniSharp.Roslyn.CSharp.Services.Navigation.FindUsagesService
+        No symbol found. File: /home/thomas/source/LinqTesting/Benchmarks.cs, Line: 16, Column: 8.
+[warn]: OmniSharp.Roslyn.CSharp.Services.Navigation.FindUsagesService
+        No symbol found. File: /home/thomas/source/LinqTesting/Benchmarks.cs, Line: 15, Column: 8.
+[warn]: OmniSharp.Roslyn.CSharp.Services.Navigation.FindUsagesService
+        No symbol found. File: /home/thomas/source/LinqTesting/Benchmarks.cs, Line: 16, Column: 8.
+Received response for /completion/resolve but could not find request.
+[warn]: OmniSharp.Roslyn.CSharp.Services.Navigation.FindUsagesService
+        No symbol found. File: /home/thomas/source/LinqTesting/Benchmarks.cs, Line: 17, Column: 8.
+[warn]: OmniSharp.Roslyn.CSharp.Services.Navigation.FindUsagesService
+        No symbol found. File: /home/thomas/source/LinqTesting/Benchmarks.cs, Line: 17, Column: 8.
+Received response for /completion/resolve but could not find request.
+[warn]: OmniSharp.Roslyn.CSharp.Services.Navigation.FindUsagesService
+        No symbol found. File: /home/thomas/source/LinqTesting/Benchmarks.cs, Line: 19, Column: 14.
+[warn]: OmniSharp.Roslyn.CSharp.Services.Navigation.FindUsagesService
+        No symbol found. File: /home/thomas/source/LinqTesting/Benchmarks.cs, Line: 26, Column: 14.
+[warn]: OmniSharp.Roslyn.CSharp.Services.Navigation.FindUsagesService
+        No symbol found. File: /home/thomas/source/LinqTesting/Benchmarks.cs, Line: 28, Column: 14.
+[warn]: OmniSharp.Roslyn.CSharp.Services.Navigation.FindUsagesService
+        No symbol found. File: /home/thomas/source/LinqTesting/Benchmarks.cs, Line: 29, Column: 14.
+[warn]: OmniSharp.Roslyn.CSharp.Services.Navigation.FindUsagesService
+        No symbol found. File: /home/thomas/source/LinqTesting/Benchmarks.cs, Line: 32, Column: 14.
+[warn]: OmniSharp.Roslyn.CSharp.Services.Navigation.FindUsagesService
+        No symbol found. File: /home/thomas/source/LinqTesting/Benchmarks.cs, Line: 43, Column: 14.
+[warn]: OmniSharp.Roslyn.CSharp.Services.Navigation.FindUsagesService
+        No symbol found. File: /home/thomas/source/LinqTesting/Benchmarks.cs, Line: 46, Column: 14.
+[warn]: OmniSharp.Roslyn.CSharp.Services.Navigation.FindUsagesService
+        No symbol found. File: /home/thomas/source/LinqTesting/Benchmarks.cs, Line: 48, Column: 14.
+[warn]: OmniSharp.Roslyn.CSharp.Services.Navigation.FindUsagesService
+        No symbol found. File: /home/thomas/source/LinqTesting/Benchmarks.cs, Line: 53, Column: 8.
+[warn]: OmniSharp.Roslyn.CSharp.Services.Navigation.FindUsagesService
+        No symbol found. File: /home/thomas/source/LinqTesting/Benchmarks.cs, Line: 74, Column: 8.
+[warn]: OmniSharp.Roslyn.CSharp.Services.Navigation.FindUsagesService
+        No symbol found. File: /home/thomas/source/LinqTesting/Benchmarks.cs, Line: 74, Column: 8.
+[warn]: OmniSharp.Roslyn.CSharp.Services.Navigation.FindUsagesService
+        No symbol found. File: /home/thomas/source/LinqTesting/Benchmarks.cs, Line: 73, Column: 14.
+[warn]: OmniSharp.Roslyn.CSharp.Services.Navigation.FindUsagesService
+        No symbol found. File: /home/thomas/source/LinqTesting/Benchmarks.cs, Line: 22, Column: 71.
+[info]: OmniSharp.OmniSharpWorkspace
+        Miscellaneous file: /home/thomas/source/LinqTesting/bin/Release/net6.0/89685bfe-619b-45d0-b999-e3f444f8fcec/obj/Release/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs added to workspace
+[info]: OmniSharp.OmniSharpWorkspace
+        Miscellaneous file: /home/thomas/source/LinqTesting/bin/Release/net6.0/89685bfe-619b-45d0-b999-e3f444f8fcec/obj/Release/net6.0/BenchmarkDotNet.Autogenerated.AssemblyInfo.cs added to workspace
+Received response for /inlayHint but could not find request.
+Received response for /inlayHint but could not find request.
+Received response for /completion/resolve but could not find request.
+Received response for /completion/resolve but could not find request.
+Received response for /findusages but could not find request.
+Received response for /v2/getcodeactions but could not find request.
+Received response for /v2/getcodeactions but could not find request.
+[warn]: OmniSharp.Roslyn.CSharp.Services.Navigation.FindUsagesService
+        No symbol found. File: /home/thomas/source/LinqTesting/Benchmarks.cs, Line: 79, Column: 55.
+[warn]: OmniSharp.Roslyn.CSharp.Services.Navigation.FindUsagesService
+        No symbol found. File: /home/thomas/source/LinqTesting/Benchmarks.cs, Line: 78, Column: 55.
+[warn]: OmniSharp.Roslyn.CSharp.Services.Navigation.FindUsagesService
+        No symbol found. File: /home/thomas/source/LinqTesting/Benchmarks.cs, Line: 77, Column: 55.
+[warn]: OmniSharp.Roslyn.CSharp.Services.Navigation.FindUsagesService
+        No symbol found. File: /home/thomas/source/LinqTesting/Benchmarks.cs, Line: 76, Column: 55.
+Received response for /completion/resolve but could not find request.
+Received response for /findusages but could not find request.
+[info]: OmniSharp.OmniSharpWorkspace
+        Miscellaneous file: /home/thomas/source/LinqTesting/bin/Release/net6.0/12ef57a1-76e1-4c9e-937e-db59487eee27/obj/Release/net6.0/BenchmarkDotNet.Autogenerated.AssemblyInfo.cs added to workspace
+[info]: OmniSharp.OmniSharpWorkspace
+        Miscellaneous file: /home/thomas/source/LinqTesting/bin/Release/net6.0/12ef57a1-76e1-4c9e-937e-db59487eee27/obj/Release/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs added to workspace
+Received response for /quickinfo but could not find request.

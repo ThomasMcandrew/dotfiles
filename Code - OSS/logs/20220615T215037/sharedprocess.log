@@ -1,0 +1,15 @@
+[2022-06-15 21:50:40.638] [sharedprocess] [info] Starting worker process with pid 2388 (type: fileWatcher, window: 1).
+[2022-06-15 21:50:50.715] [sharedprocess] [info] Getting Manifest... sainnhe.everforest
+[2022-06-15 21:50:50.847] [sharedprocess] [info] Installing extension: sainnhe.everforest
+[2022-06-15 21:50:51.678] [sharedprocess] [info] Downloaded extension: sainnhe.everforest /home/thomas/.config/Code - OSS/CachedExtensionVSIXs/sainnhe.everforest-0.2.0
+[2022-06-15 21:50:51.772] [sharedprocess] [info] Extracted extension to /home/thomas/.vscode-oss/extensions/.1d70df31-93a7-4d6e-95e5-9a2a6e8d8db0: sainnhe.everforest
+[2022-06-15 21:50:51.784] [sharedprocess] [info] Renamed to /home/thomas/.vscode-oss/extensions/sainnhe.everforest-0.2.0
+[2022-06-15 21:50:51.786] [sharedprocess] [info] Extracting completed. sainnhe.everforest
+[2022-06-15 21:50:51.788] [sharedprocess] [info] Extension installed successfully: sainnhe.everforest
+[2022-06-15 21:51:02.426] [sharedprocess] [info] Getting Manifest... muhammad-sammy.csharp
+[2022-06-15 21:51:02.587] [sharedprocess] [info] Installing extension: muhammad-sammy.csharp
+[2022-06-15 21:51:03.811] [sharedprocess] [info] Downloaded extension: muhammad-sammy.csharp /home/thomas/.config/Code - OSS/CachedExtensionVSIXs/muhammad-sammy.csharp-1.25.0
+[2022-06-15 21:51:03.868] [sharedprocess] [info] Extracted extension to /home/thomas/.vscode-oss/extensions/.44814068-a103-48a5-b2bd-0950c1604422: muhammad-sammy.csharp
+[2022-06-15 21:51:03.883] [sharedprocess] [info] Renamed to /home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0
+[2022-06-15 21:51:03.886] [sharedprocess] [info] Extracting completed. muhammad-sammy.csharp
+[2022-06-15 21:51:03.892] [sharedprocess] [info] Extension installed successfully: muhammad-sammy.csharp

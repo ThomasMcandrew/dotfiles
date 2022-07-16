@@ -1,0 +1,351 @@
+[2022-06-19 11:44:18.076] [exthost] [info] Extension host with pid 1391 started
+[2022-06-19 11:44:18.076] [exthost] [info] Skipping acquiring lock for /home/thomas/.config/Code - OSS/User/workspaceStorage/deaadbc73f69ccf6dd16973b7e15fe6a.
+[2022-06-19 11:44:18.341] [exthost] [info] ExtensionService#_doActivateExtension muhammad-sammy.csharp, startup: false, activationEvent: 'onLanguage:csharp'
+[2022-06-19 11:44:18.594] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-06-19 11:44:18.598] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-06-19 11:44:18.604] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-06-19 11:44:18.612] [exthost] [info] ExtensionService#_doActivateExtension sainnhe.everforest, startup: true, activationEvent: '*'
+[2022-06-19 11:44:18.706] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-06-19 11:44:18.753] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-06-19 11:44:18.842] [exthost] [info] Eager extensions activated
+[2022-06-19 11:44:18.886] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-19 11:44:18.903] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-19 11:44:21.378] [exthost] [warning] DiagnosticCollection with name 'csharp' does already exist.
+[2022-06-19 11:44:21.395] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-19 11:44:21.395] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: undefined
+[2022-06-19 11:46:09.030] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-19 11:46:09.031] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: 377
+[2022-06-19 11:48:46.165] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+[2022-06-19 11:48:46.204] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+[2022-06-19 11:48:46.681] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+[2022-06-19 11:50:28.578] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-19 11:50:28.580] [exthost] [error] Error: busy
+	at f.<anonymous> (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:568769)
+	at Generator.next (<anonymous>)
+	at s (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:562372)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-06-19 11:50:30.779] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-19 11:50:30.779] [exthost] [error] Error: busy
+	at f.<anonymous> (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:568769)
+	at Generator.next (<anonymous>)
+	at s (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:562372)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-06-19 11:50:35.190] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-19 11:50:35.190] [exthost] [error] Error: busy
+	at f.<anonymous> (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:568769)
+	at Generator.next (<anonymous>)
+	at s (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:562372)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-06-19 11:50:37.591] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-19 11:50:37.591] [exthost] [error] Error: busy
+	at f.<anonymous> (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:568769)
+	at Generator.next (<anonymous>)
+	at s (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:562372)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-06-19 11:50:42.564] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-19 11:50:42.565] [exthost] [error] Error: busy
+	at f.<anonymous> (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:568769)
+	at Generator.next (<anonymous>)
+	at s (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:562372)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-06-19 11:50:51.915] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-19 11:50:51.915] [exthost] [error] Error: busy
+	at f.<anonymous> (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:568769)
+	at Generator.next (<anonymous>)
+	at s (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:562372)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-06-19 11:51:40.294] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-19 11:51:40.295] [exthost] [error] Error: busy
+	at f.<anonymous> (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:568769)
+	at Generator.next (<anonymous>)
+	at s (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:562372)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-06-19 11:51:40.612] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-19 11:51:40.613] [exthost] [error] Error: busy
+	at f.<anonymous> (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:568769)
+	at Generator.next (<anonymous>)
+	at s (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:562372)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-06-19 11:51:40.933] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-19 11:51:40.933] [exthost] [error] Error: busy
+	at f.<anonymous> (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:568769)
+	at Generator.next (<anonymous>)
+	at s (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:562372)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-06-19 11:51:42.703] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-19 11:51:42.703] [exthost] [error] Error: busy
+	at f.<anonymous> (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:568769)
+	at Generator.next (<anonymous>)
+	at s (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:562372)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-06-19 11:51:51.556] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-19 11:51:51.557] [exthost] [error] Error: busy
+	at f.<anonymous> (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:568769)
+	at Generator.next (<anonymous>)
+	at s (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:562372)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-06-19 11:51:51.920] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-19 11:51:51.920] [exthost] [error] Error: busy
+	at f.<anonymous> (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:568769)
+	at Generator.next (<anonymous>)
+	at s (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:562372)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-06-19 11:51:52.223] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-19 11:51:52.223] [exthost] [error] Error: busy
+	at f.<anonymous> (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:568769)
+	at Generator.next (<anonymous>)
+	at s (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:562372)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-06-19 11:51:53.866] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-19 11:51:53.866] [exthost] [error] Error: busy
+	at f.<anonymous> (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:568769)
+	at Generator.next (<anonymous>)
+	at s (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:562372)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-06-19 11:51:54.235] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-19 11:51:54.236] [exthost] [error] Error: busy
+	at f.<anonymous> (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:568769)
+	at Generator.next (<anonymous>)
+	at s (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:562372)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-06-19 11:51:54.558] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-19 11:51:54.558] [exthost] [error] Error: busy
+	at f.<anonymous> (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:568769)
+	at Generator.next (<anonymous>)
+	at s (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:562372)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-06-19 11:51:57.951] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-19 11:51:57.951] [exthost] [error] Error: busy
+	at f.<anonymous> (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:568769)
+	at Generator.next (<anonymous>)
+	at s (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:562372)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-06-19 11:51:58.829] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-19 11:51:58.829] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: 1315
+[2022-06-19 11:52:01.380] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-19 11:52:01.380] [exthost] [error] Error: busy
+	at f.<anonymous> (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:568769)
+	at Generator.next (<anonymous>)
+	at s (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:562372)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-06-19 11:52:07.264] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-19 11:52:07.264] [exthost] [error] Error: busy
+	at f.<anonymous> (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:568769)
+	at Generator.next (<anonymous>)
+	at s (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:562372)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-06-19 11:52:08.776] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-19 11:52:08.776] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: 1388
+[2022-06-19 11:52:08.779] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-19 11:52:08.779] [exthost] [error] Error: busy
+	at f.<anonymous> (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:568769)
+	at Generator.next (<anonymous>)
+	at s (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:562372)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-06-19 11:52:09.130] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-19 11:52:09.130] [exthost] [error] Error: busy
+	at f.<anonymous> (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:568769)
+	at Generator.next (<anonymous>)
+	at s (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:562372)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-06-19 11:52:09.477] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-19 11:52:09.477] [exthost] [error] Error: busy
+	at f.<anonymous> (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:568769)
+	at Generator.next (<anonymous>)
+	at s (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:562372)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-06-19 11:52:09.800] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-19 11:52:09.800] [exthost] [error] Error: busy
+	at f.<anonymous> (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:568769)
+	at Generator.next (<anonymous>)
+	at s (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:562372)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-06-19 11:52:11.804] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-19 11:52:11.804] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: 1421
+[2022-06-19 11:52:11.816] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-19 11:52:11.816] [exthost] [error] Error: busy
+	at f.<anonymous> (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:568769)
+	at Generator.next (<anonymous>)
+	at s (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:562372)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-06-19 11:52:12.899] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-19 11:52:12.899] [exthost] [error] Error: busy
+	at f.<anonymous> (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:568769)
+	at Generator.next (<anonymous>)
+	at s (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:562372)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-06-19 11:52:18.141] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-19 11:52:18.141] [exthost] [error] Error: busy
+	at f.<anonymous> (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:568769)
+	at Generator.next (<anonymous>)
+	at s (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:562372)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-06-19 11:52:20.094] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-19 11:52:20.094] [exthost] [error] Error: busy
+	at f.<anonymous> (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:568769)
+	at Generator.next (<anonymous>)
+	at s (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:562372)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-06-19 11:52:22.203] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-19 11:52:22.204] [exthost] [error] Error: busy
+	at f.<anonymous> (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:568769)
+	at Generator.next (<anonymous>)
+	at s (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:562372)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-06-19 11:52:22.539] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-19 11:52:22.539] [exthost] [error] Error: busy
+	at f.<anonymous> (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:568769)
+	at Generator.next (<anonymous>)
+	at s (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:562372)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-06-19 11:52:22.840] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-19 11:52:22.841] [exthost] [error] Error: busy
+	at f.<anonymous> (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:568769)
+	at Generator.next (<anonymous>)
+	at s (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:562372)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-06-19 11:52:24.518] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-19 11:52:24.518] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: 1551
+[2022-06-19 11:52:24.529] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-19 11:52:24.529] [exthost] [error] Error: busy
+	at f.<anonymous> (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:568769)
+	at Generator.next (<anonymous>)
+	at s (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:562372)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-06-19 11:52:25.362] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-19 11:52:25.362] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: 1563
+[2022-06-19 11:52:26.251] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-19 11:52:26.251] [exthost] [error] Error: busy
+	at f.<anonymous> (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:568769)
+	at Generator.next (<anonymous>)
+	at s (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:562372)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-06-19 11:52:27.093] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-19 11:52:27.093] [exthost] [error] Error: busy
+	at f.<anonymous> (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:568769)
+	at Generator.next (<anonymous>)
+	at s (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:562372)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-06-19 11:52:43.233] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-19 11:52:43.233] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: 1655
+[2022-06-19 11:52:43.668] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-19 11:52:43.668] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: 1661
+[2022-06-19 11:53:47.635] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-19 11:53:47.635] [exthost] [error] Error: busy
+	at f.<anonymous> (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:568769)
+	at Generator.next (<anonymous>)
+	at s (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:562372)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-06-19 11:53:48.633] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-19 11:53:48.633] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: 1928
+[2022-06-19 11:54:02.622] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-19 11:54:02.622] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: 2022
+[2022-06-19 11:54:02.660] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-19 11:54:02.660] [exthost] [error] Error: busy
+	at f.<anonymous> (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:568769)
+	at Generator.next (<anonymous>)
+	at s (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:562372)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-06-19 11:54:11.788] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-19 11:54:11.788] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: 2098
+[2022-06-19 11:54:11.809] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-19 11:54:11.809] [exthost] [error] Error: busy
+	at f.<anonymous> (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:568769)
+	at Generator.next (<anonymous>)
+	at s (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:562372)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-06-19 11:54:12.089] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-19 11:54:12.089] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: 2103
+[2022-06-19 11:54:12.099] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-19 11:54:12.100] [exthost] [error] Error: busy
+	at f.<anonymous> (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:568769)
+	at Generator.next (<anonymous>)
+	at s (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:562372)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-06-19 11:54:14.843] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-19 11:54:14.843] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: 2123
+[2022-06-19 11:54:26.078] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-19 11:54:26.078] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: 2218
+[2022-06-19 11:54:30.153] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-19 11:54:30.153] [exthost] [error] Error: busy
+	at f.<anonymous> (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:568769)
+	at Generator.next (<anonymous>)
+	at s (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:562372)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-06-19 11:54:33.263] [exthost] [warning] muhammad-sammy.csharp - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2022-06-19 11:54:33.263] [exthost] [warning] muhammad-sammy.csharp - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2022-06-19 11:54:33.263] [exthost] [warning] muhammad-sammy.csharp - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2022-06-19 11:54:33.598] [exthost] [warning] muhammad-sammy.csharp - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2022-06-19 11:54:33.598] [exthost] [warning] muhammad-sammy.csharp - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2022-06-19 11:54:33.598] [exthost] [warning] muhammad-sammy.csharp - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2022-06-19 11:54:38.996] [exthost] [warning] muhammad-sammy.csharp - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2022-06-19 11:54:46.190] [exthost] [warning] muhammad-sammy.csharp - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2022-06-19 11:54:46.191] [exthost] [warning] muhammad-sammy.csharp - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2022-06-19 11:54:46.191] [exthost] [warning] muhammad-sammy.csharp - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2022-06-19 11:55:07.598] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-19 11:55:07.598] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: 2358
+[2022-06-19 11:55:15.447] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-19 11:55:15.447] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: 2417
+[2022-06-19 11:55:18.635] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-19 11:55:18.635] [exthost] [error] Error: busy
+	at f.<anonymous> (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:568769)
+	at Generator.next (<anonymous>)
+	at s (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:562372)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-06-19 11:55:20.651] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-19 11:55:20.651] [exthost] [error] Error: busy
+	at f.<anonymous> (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:568769)
+	at Generator.next (<anonymous>)
+	at s (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:562372)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-06-19 11:55:52.351] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-19 11:55:52.351] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: 2657
+[2022-06-19 11:55:57.890] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-19 11:55:57.890] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: 2740
+[2022-06-19 11:55:58.213] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-19 11:55:58.214] [exthost] [error] Error: busy
+	at f.<anonymous> (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:568769)
+	at Generator.next (<anonymous>)
+	at s (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:562372)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-06-19 11:56:09.636] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+[2022-06-25 08:17:16.260] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-06-25 08:17:16.303] [exthost] [info] Extension host with pid 1391 exiting with code 0

@@ -1,0 +1,138 @@
+[2022-06-15 21:50:41.188] [exthost] [info] Extension host with pid 2358 started
+[2022-06-15 21:50:41.188] [exthost] [info] Skipping acquiring lock for /home/thomas/.config/Code - OSS/User/workspaceStorage/deaadbc73f69ccf6dd16973b7e15fe6a.
+[2022-06-15 21:50:41.421] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-06-15 21:50:41.433] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-06-15 21:50:41.451] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-06-15 21:50:41.515] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-06-15 21:50:41.569] [exthost] [info] Eager extensions activated
+[2022-06-15 21:50:41.571] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-15 21:50:41.598] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-15 21:50:42.213] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+[2022-06-15 21:50:51.971] [exthost] [info] ExtensionService#_doActivateExtension sainnhe.everforest, startup: false, activationEvent: '*'
+[2022-06-15 21:50:54.997] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-06-15 21:50:55.004] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-06-15 21:50:55.079] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-06-15 21:51:04.102] [exthost] [info] ExtensionService#_doActivateExtension muhammad-sammy.csharp, startup: false, activationEvent: 'workspaceContains:**/*.{csproj,sln,slnf,csx,cake}'
+[2022-06-15 21:51:41.152] [exthost] [warning] DiagnosticCollection with name 'csharp' does already exist.
+[2022-06-15 21:51:41.189] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-15 21:51:41.189] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: undefined
+[2022-06-15 21:51:47.865] [exthost] [warning] muhammad-sammy.csharp - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2022-06-15 21:51:47.865] [exthost] [warning] muhammad-sammy.csharp - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2022-06-15 21:51:47.865] [exthost] [warning] muhammad-sammy.csharp - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2022-06-15 21:51:54.579] [exthost] [warning] muhammad-sammy.csharp - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2022-06-15 21:51:56.067] [exthost] [warning] muhammad-sammy.csharp - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2022-06-15 21:51:56.305] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-15 21:51:56.305] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: 38
+[2022-06-15 21:51:56.318] [exthost] [warning] muhammad-sammy.csharp - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2022-06-15 21:51:58.340] [exthost] [warning] muhammad-sammy.csharp - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2022-06-15 21:52:02.459] [exthost] [warning] muhammad-sammy.csharp - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2022-06-15 21:52:06.429] [exthost] [warning] muhammad-sammy.csharp - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2022-06-15 21:52:16.172] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-15 21:52:16.174] [exthost] [error] Error: busy
+	at f.<anonymous> (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:568769)
+	at Generator.next (<anonymous>)
+	at s (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:562372)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-06-15 21:52:18.740] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-15 21:52:18.740] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: 140
+[2022-06-15 21:52:18.803] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-15 21:52:18.803] [exthost] [error] Error: busy
+	at f.<anonymous> (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:568769)
+	at Generator.next (<anonymous>)
+	at s (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:562372)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-06-15 21:52:20.545] [exthost] [warning] muhammad-sammy.csharp - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2022-06-15 21:52:22.696] [exthost] [warning] muhammad-sammy.csharp - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2022-06-15 21:52:24.231] [exthost] [warning] muhammad-sammy.csharp - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2022-06-15 21:52:24.231] [exthost] [warning] muhammad-sammy.csharp - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2022-06-15 21:52:24.231] [exthost] [warning] muhammad-sammy.csharp - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2022-06-15 21:52:25.271] [exthost] [warning] muhammad-sammy.csharp - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2022-06-15 21:52:26.905] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-15 21:52:26.905] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: 193
+[2022-06-15 21:52:27.942] [exthost] [warning] muhammad-sammy.csharp - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2022-06-15 21:52:27.975] [exthost] [warning] muhammad-sammy.csharp - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2022-06-15 21:52:28.022] [exthost] [warning] muhammad-sammy.csharp - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2022-06-15 21:52:29.629] [exthost] [warning] muhammad-sammy.csharp - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2022-06-15 21:52:32.672] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-15 21:52:32.672] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: 202
+[2022-06-15 21:53:12.895] [exthost] [warning] muhammad-sammy.csharp - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2022-06-15 21:53:12.895] [exthost] [warning] muhammad-sammy.csharp - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2022-06-15 21:53:12.895] [exthost] [warning] muhammad-sammy.csharp - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2022-06-15 21:53:12.895] [exthost] [warning] muhammad-sammy.csharp - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2022-06-15 21:53:12.895] [exthost] [warning] muhammad-sammy.csharp - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2022-06-15 21:53:12.895] [exthost] [warning] muhammad-sammy.csharp - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2022-06-15 21:53:12.895] [exthost] [warning] muhammad-sammy.csharp - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2022-06-15 21:54:22.385] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-15 21:54:22.385] [exthost] [error] Error: busy
+	at f.<anonymous> (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:568769)
+	at Generator.next (<anonymous>)
+	at s (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:562372)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-06-15 21:54:43.724] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 255
+[2022-06-15 21:55:19.793] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 255
+[2022-06-15 21:55:20.049] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-15 21:55:20.049] [exthost] [error] Problem invoking 'GetInlayHints' on OmniSharpServer: Error: Request /inlayHint cancelled, id: 1093
+[2022-06-15 21:55:20.049] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-15 21:55:20.049] [exthost] [error] Problem invoking 'GetInlayHints' on OmniSharpServer: Error: Request /inlayHint cancelled, id: 1094
+[2022-06-15 21:55:35.607] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 255
+[2022-06-15 21:55:47.521] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-15 21:55:47.522] [exthost] [error] Error: busy
+	at f.<anonymous> (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:568769)
+	at Generator.next (<anonymous>)
+	at s (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:562372)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-06-15 21:55:47.849] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-15 21:55:47.849] [exthost] [error] Error: busy
+	at f.<anonymous> (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:568769)
+	at Generator.next (<anonymous>)
+	at s (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:562372)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-06-15 21:55:54.153] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-15 21:55:54.153] [exthost] [error] Error: busy
+	at f.<anonymous> (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:568769)
+	at Generator.next (<anonymous>)
+	at s (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:562372)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-06-15 21:56:21.768] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 255
+[2022-06-15 21:56:48.544] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 255
+[2022-06-15 21:56:57.368] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-15 21:56:57.373] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: 1432
+[2022-06-15 21:57:00.002] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-15 21:57:00.002] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: 1433
+[2022-06-15 21:57:05.797] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-15 21:57:05.798] [exthost] [error] Error: busy
+	at f.<anonymous> (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:568769)
+	at Generator.next (<anonymous>)
+	at s (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:562372)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-06-15 21:57:34.761] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-15 21:57:34.761] [exthost] [error] Error: busy
+	at f.<anonymous> (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:568769)
+	at Generator.next (<anonymous>)
+	at s (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:562372)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-06-15 21:57:40.432] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-06-15 21:57:40.432] [exthost] [error] Error: busy
+	at f.<anonymous> (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:568769)
+	at Generator.next (<anonymous>)
+	at s (/home/thomas/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0/dist/extension.js:2:562372)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-06-15 21:57:40.991] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 255
+[2022-06-15 21:58:22.947] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 255
+[2022-06-15 21:58:35.743] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 255
+[2022-06-15 21:58:55.085] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 255
+[2022-06-15 21:59:37.227] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 256
+[2022-06-15 22:00:12.933] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 256
+[2022-06-15 22:00:35.518] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 256
+[2022-06-15 22:01:08.000] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 256
+[2022-06-15 22:01:27.088] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 256
+[2022-06-15 22:02:05.949] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 256
